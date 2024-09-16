@@ -85,9 +85,9 @@ export default function Home() {
   return (
     <main className="grid min-h-screen flex-col items-center justify-between p-6 md:p-24">
       <section className="mb-8 w-full">
-        <h1 className="text-2xl md:text-3xl font-bold text-left">Tienda de Perifericos</h1>
+        <h1 className="text-2xl md:text-3xl font-bold text-left">PeriStore</h1>
         <p className="text-gray-600 mt-2 text-sm md:text-base text-left">
-          Explora nuestra selección de periféricos para mejorar tu experiencia informática.
+          Explora nuestra selección de periféricos para mejorar tu experiencia informática de la ciudad de pasto.
         </p>
       </section>
 
